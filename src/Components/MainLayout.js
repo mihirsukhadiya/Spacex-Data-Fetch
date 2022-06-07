@@ -235,7 +235,7 @@ function MainLayout() {
               </div>
             )}
           </div>
-          <div className="bottomContent">Developed By:- Mihir Sukhadiya</div>
+          <div className="bottomContent">Developed By:- Mihir Sukhadiya Email: mihirsukhadiya7@gmail.com</div>
         </div>
       </div>
     </>
